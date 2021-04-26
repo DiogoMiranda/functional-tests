@@ -15,6 +15,6 @@ bundle update
 bundle install
 ```
 
-``
+```
 cucumber features/book_service.feature --retry 2
 ```
